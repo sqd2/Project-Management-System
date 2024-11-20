@@ -1,0 +1,6 @@
+A0001,Salem,Pass123!,admin@apu.edu.my
+A0002,Farzana,FarzanaPass!,farzana@apu.edu.my
+A0003,MeiLing,MeiLingP@ss!,meiling@gmail.com
+A0004,Rajesh,RajeshP@ssword!,rajesh@apu.edu.my
+A0005,Samantha,SamanthaP@ss!,samantha@gmail.com
+A0006,TestAdmin,Maas123!,emailadmin@gmail.com

@@ -1,0 +1,12 @@
+L0001,Yousef,Pass123!,usman@apu.edu.my,IT,LECTURER
+L0002,Kim,1,Lee@apu.edu.my,Engineering,PROJECT_MANAGER
+L0003,Amina,SecureAmin@!,amina@gmail.com,Business,LECTURER
+L0004,Raj,RajPass1234!,raj@apu.edu.my,Engineering,LECTURER
+L0005,Sarah,SarahPass!,sarah@gmail.com,Psychology,LECTURER
+L0006,Ibrahim,IbrahimP@ss!,ibrahim@apu.edu.my,Law,LECTURER
+L0007,Siti,SitiPass456!,siti@gmail.com,IT,PROJECT_MANAGER
+L0008,Michael,MikePass789!,michael@apu.edu.my,Business,PROJECT_MANAGER
+L0009,Farah,FarahP@ssword!,farah@gmail.com,Psychology,LECTURER
+L0010,John,JohnP@ssw0rd!,john@apu.edu.my,Law,LECTURER
+L0011,Alia,AliaP@ss123!,alia@gmail.com,Engineering,PROJECT_MANAGER
+L0012,Ravi,RaviP@ss456!,ravi@apu.edu.my,IT,LECTURER

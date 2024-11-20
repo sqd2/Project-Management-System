@@ -1,0 +1,10 @@
+Lecturer X,Accepted
+Lecturer Y,Available on 2024-06-25
+Lecturer Z,Accepted
+Lecturer A,Available on 2024-07-01
+Lecturer B,Accepted
+Lecturer C,Available on 2024-07-05
+Lecturer D,Accepted
+Lecturer E,Available on 2024-07-10
+Lecturer F,Accepted
+Lecturer G,Available on 2024-07-15

@@ -1,0 +1,22 @@
+S0001,Hafeel,Pass123!,Salem@apu.edu.my,Computer Science,AUG2024
+S0002,Robert,Passy12!,rob@gmail.com,Electrical Engineering,FEB2025
+S0003,Aisha,SecretPass!,AishaB@apu.edu.my,Finance,MAY2024
+S0004,Chen,SecureP@ss!,ChenWei@gmail.com,Electrical Engineering,FEB2025
+S0005,Maria,PassMaria23!,MariaF@apu.edu.my,Psychology,NOV2024
+S0006,David,DavePass7!,DavidK@gmail.com,Computer Science,FEB2025
+S0007,Fatimah,FatimaP@ss!,FatimahH@apu.edu.my,Finance,MAY2024
+S0008,Kumar,KumarPass9!,KumarS@gmail.com,Law,AUG2024
+S0009,Emily,EmilyP@ssword!,EmilyW@apu.edu.my,Psychology,NOV2024
+S0010,Tan,TanPass55!,TanAh@gmail.com,Electrical Engineering,FEB2025
+S0011,Sofia,SofiaPass2!,SofiaA@apu.edu.my,Law,MAY2024
+S0012,Omar,OmarPass88!,OmarM@gmail.com,Computer Science,AUG2024
+S0013,Mei,MeiPass44!,MeiLing@apu.edu.my,Finance,NOV2024
+S0014,James,JamesP@ss1!,JamesT@gmail.com,Psychology,FEB2025
+S0015,Nurul,NurulPass33!,NurulI@apu.edu.my,Computer Science,MAY2024
+S0016,Sulaiman,PasswordTest12!,apustudent@mail.apu.edu.my,Computer Science,MAY 2025
+S0017,DocumentTester,Password123!,Testemail@mail.apu.edu.my,Electrical Engineering,MAY 2025
+S0018,Emily Davis,P@ssword123,emily.davis@email.com,Computer Science,FEB 2025
+S0019,Carlos Hernandez,C0d1ng#Fun,carlos.h@email.com,Electrical Engineering,FEB 2025
+S0020,Aisha Patel,StudyH@rd999,aisha.p@email.com,Psychology,FEB 2025
+S0021,David Kim,S3cr3t!P@ss,david.kim@email.com,Finance,FEB 2025
+S0022,Sophia Nguyen,MusicL0v3r#,sophia.nguyen@email.com,Information Technology,FEB 2025
